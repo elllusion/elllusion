@@ -1,6 +1,7 @@
 ### Hi Guys 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。;凡我不能创造的，我就不能理解。;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。)
+
 <table>
 <tr>
 <td>
@@ -11,6 +12,7 @@
 </td>
 </tr>
 </table>
+
 ### ⚡ 我的技术栈 | My Tech Stack
 
 * ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
