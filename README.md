@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。;凡我不能创造的，我就不能理解。;注意你的思想，因为它们将变成言辞;注意你的言辞，因为它们将变成行动;注意你的行动，因为它们将变成习惯;注意你的习惯，因为它们将变成性格;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。;凡我不能创造的，我就不能理解。;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。)
 
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)
 
