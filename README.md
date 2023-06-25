@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](http://antzuhl.cn:4000/get/@poorjobless.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=poorjobless.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
