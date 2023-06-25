@@ -4,10 +4,10 @@
 <table>
 <tr>
 <td>
-![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)
+[![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)]()
 </td>
 <td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)]()
 </td>
 </tr>
 </table>
