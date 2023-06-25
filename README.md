@@ -1,12 +1,26 @@
 ### Hi Guys 👋
 
-![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。;凡我不能创造的，我就不能理解。;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。)
+<table>
+<tr>
+<td>
+![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)
+</td>
+<td>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)
+</td>
+</tr>
+</table>
+### ⚡ 我的技术栈 | My Tech Stack
 
-![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)
+* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
+
+* ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=poorjobless&color=green">
 <!--
 **poorjobless/poorjobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
