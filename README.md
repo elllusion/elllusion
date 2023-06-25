@@ -1,8 +1,8 @@
 ### Hi Guys 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
-
 ![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。)
 
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)
 
