@@ -5,9 +5,9 @@
 |[![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&theme=radical)]()|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical&langs_count=8)]()|
 |  ----  | ----  |
 
-### ⚡ 我的技术栈 | My Tech Stack
+### ⚡ 我的技术栈 | My Tech Stack 
 
-* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
+* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![chisel](https://img.shields.io/badge/-Chisel-2030A0.svg) ![scala](https://img.shields.io/badge/-Scala-2030A0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0.svg) ![java](https://img.shields.io/badge/-Java-2030A0.svg)
 
 * ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
