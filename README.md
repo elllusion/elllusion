@@ -1,6 +1,6 @@
 ### Hi Guys 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=poorjobless.readme)
+![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
 
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=radical)
 
