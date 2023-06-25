@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
 
-![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical)
+![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 <!--
