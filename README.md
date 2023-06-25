@@ -4,7 +4,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=donut&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=poorjobless&theme=radical)]
 
