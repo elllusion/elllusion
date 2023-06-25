@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&layout=compact&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 <!--
 **poorjobless/poorjobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
