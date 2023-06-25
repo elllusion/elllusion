@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=poorjobless&color=green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&langs_count=10)
-
 ![info](https://github-readme-stats.vercel.app/api?username=poorjobless&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjobless&langs_count=10)
 
 <!--
 **poorjobless/poorjobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
