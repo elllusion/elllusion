@@ -11,9 +11,9 @@
 
 * ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![verilator](https://img.shields.io/badge/-Verilator-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
-* ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-green.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-green.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-green.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-green.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-green.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-green.svg)
+* ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
 
-*  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-blue.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-blue.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-blue.svg)
+*  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 
