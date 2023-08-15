@@ -7,7 +7,8 @@
 
 # ⚡ 我的技术栈 | My Tech Stack 
 
-## 芯片开发技术栈 | Chip development technology stack
+## 硬件开发技术栈 | Chip development technology stack
+### 芯片开发技术栈 | Chip development technology stack
 * ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
@@ -17,13 +18,27 @@
   ##### 低功耗计算 | Low Power Computing
   * ![SweRV](https://img.shields.io/badge/-SweRV-2030A0.svg)
 
-## 芯片开发工具栈 | Chip development Tools stack
-* ![Iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![Verilator](https://img.shields.io/badge/-Verilator-0184C1.svg) ![Yosys](https://img.shields.io/badge/-Yosys-blue.svg?logo=intel&logoColor=ffffff) ![uartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![Vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg) ![Kicad](https://img.shields.io/badge/-Kicad-5070F0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
+### 芯片开发工具栈 | Chip development Tool Stack
 
-* ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
+#### 芯片开发前端工具栈 | Front-end Tool Stack
+* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
+  
+* ![Iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![Verilator](https://img.shields.io/badge/-Verilator-0184C1.svg)
 
-*  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg) ![Cadence Allegro/OrCAD](https://img.shields.io/badge/-Cadence%20Allegro/OrCAD-EE0040.svg)
+* ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg)
 
+* ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
+
+#### 芯片开发后端工具栈 | Back-end Tool Stack
+* ![Yosys](https://img.shields.io/badge/-Yosys-blue.svg?logo=intel&logoColor=ffffff) ![Quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![Vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff)
+
+* ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) 
+
+* ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg) 
+
+### 电路板开发工具栈 | PCB Development Tool Stack
+*  ![Kicad](https://img.shields.io/badge/-Kicad-5070F0.svg) ![Cadence Allegro/OrCAD](https://img.shields.io/badge/-Cadence%20Allegro/OrCAD-EE0040.svg) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
+*  ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) 
 
 ## 软件开发技术栈 | Software Development Technology Stack
 
