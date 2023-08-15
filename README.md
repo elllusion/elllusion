@@ -22,7 +22,7 @@
 
 * ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
 
-*  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg)
+*  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg) ![Cadence Allegro/OrCAD](https://img.shields.io/badge/-Cadence%20Allegro/OrCAD-EE0040.svg)
 
 
 
