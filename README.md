@@ -8,7 +8,7 @@
 ### ⚡ 我的技术栈 | My Tech Stack 
 
 ## 芯片开发技术栈 | Chip development technology stack
-* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg)
+* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 ## 芯片架构在研发方向 | Chip Architecture R&D Direction
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg) ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) 
@@ -18,7 +18,7 @@
 
 ## 芯片开发工具栈 | Chip development Tools stack
 
-* ![iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![verilator](https://img.shields.io/badge/-Verilator-0184C1.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
+* ![iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![verilator](https://img.shields.io/badge/-Verilator-0184C1.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg) ![Kicad](https://img.shields.io/badge/-Kicad-5070F0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 * ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
 
