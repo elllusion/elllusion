@@ -13,9 +13,9 @@
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg)
   ##### 高性能计算 | High Performance Computing
-* ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) ![BOOM](https://img.shields.io/badge/-XiangShan-2030A0.svg)
+  * ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) ![BOOM](https://img.shields.io/badge/-XiangShan-2030A0.svg)
   ##### 低功耗计算 | Low Power Computing
-* ![SweRV](https://img.shields.io/badge/-SweRV-2030A0.svg)
+  * ![SweRV](https://img.shields.io/badge/-SweRV-2030A0.svg)
 
 ## 芯片开发工具栈 | Chip development Tools stack
 * ![Iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![Verilator](https://img.shields.io/badge/-Verilator-0184C1.svg) ![Yosys](https://img.shields.io/badge/-Yosys-blue.svg?logo=intel&logoColor=ffffff) ![uartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![Vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg) ![Kicad](https://img.shields.io/badge/-Kicad-5070F0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
