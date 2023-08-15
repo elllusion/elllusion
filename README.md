@@ -13,7 +13,7 @@
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg)
   ##### 高性能计算 | High Performance Computing
-  * ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) ![BOOM](https://img.shields.io/badge/-XiangShan-2030A0.svg)
+  * ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) ![BOOM](https://img.shields.io/badge/-BOOM-2030A0.svg)
   ##### 低功耗计算 | Low Power Computing
   * ![SweRV](https://img.shields.io/badge/-SweRV-2030A0.svg)
 
