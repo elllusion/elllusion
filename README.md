@@ -45,7 +45,8 @@
 * ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
   
 #### 技术栈 | Technology Stack
-* ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine-2030A0.svg) 
+* ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine-2030A0.svg)
+* ![Godot](https://img.shields.io/badge/-Godot-2030A0.svg)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 
