@@ -7,8 +7,8 @@
 
 # ⚡ 我的技术栈 | My Tech Stack 
 
-## 硬件开发技术栈 | Chip development technology stack
-### 芯片开发技术栈 | Chip development technology stack
+## 硬件开发技术栈 | Chip Development Technology Stack
+### 芯片开发技术栈 | Chip Development Technology Stack
 * ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
@@ -50,8 +50,8 @@
 * ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-2030A0.svg)
 * ![Gin](https://img.shields.io/badge/-Gin-2030A0.svg)
 
-### 前端技术栈 | Front-end technology stack
-#### 编程语言 | Programming language
+### 前端技术栈 | Front-end Technology Stack
+#### 编程语言 | Programming Language
 * ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) ![TypeScript](https://img.shields.io/badge/-TypeScript-2030A0.svg) ![Dart](https://img.shields.io/badge/-Dart-2030A0.svg)
 
 #### 技术栈 | Technology Stack
@@ -60,7 +60,7 @@
 * ![ReactNative](https://img.shields.io/badge/-ReactNative-2030A0.svg) ![React.js](https://img.shields.io/badge/-React.js-2030A0.svg)
 
 ### 游戏开发技术栈 | Game Development Technology Stack
-#### 编程语言 | Programming language
+#### 编程语言 | Programming Language
 * ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
   
 #### 技术栈 | Technology Stack
