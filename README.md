@@ -14,12 +14,12 @@
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg) ![XiangShan](https://img.shields.io/badge/-XiangShan-2030A0.svg) 
 
 ## 芯片开发工具栈 | Chip development Tools stack
-
 * ![iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![verilator](https://img.shields.io/badge/-Verilator-0184C1.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg) ![Kicad](https://img.shields.io/badge/-Kicad-5070F0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 * ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
 
 *  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg) ![Cadence Allegro/OrCAD](https://img.shields.io/badge/-Cadence%20Allegro/OrCAD-EE0040.svg)
+
 
 ## 软件开发技术栈 | Software Development Technology Stack
 
@@ -33,14 +33,16 @@
 
 ### 前端技术栈 | Front-end technology stack
 #### 编程语言 | Programming language
-* ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) 
+* ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) ![TypeScript](https://img.shields.io/badge/-TypeScript-2030A0.svg) ![Dart](https://img.shields.io/badge/-Dart-2030A0.svg)
 
 #### 技术栈 | Technology Stack
 * ![Vue.js](https://img.shields.io/badge/-Vue.js-2030A0.svg)
+* ![Flutter](https://img.shields.io/badge/-Flutter-2030A0.svg) ![FlutterBoost](https://img.shields.io/badge/-FlutterBoost-2030A0.svg)
+* ![ReactNative](https://img.shields.io/badge/-ReactNative-2030A0.svg) ![React.js](https://img.shields.io/badge/-React.js-2030A0.svg)
 
 ### 游戏开发技术栈 | Game Development Technology Stack
 #### 编程语言 | Programming language
-* ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg)
+* ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
   
 #### 技术栈 | Technology Stack
 * ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine-2030A0.svg) 
