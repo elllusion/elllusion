@@ -24,13 +24,26 @@
 ## 软件开发技术栈 | Software Development Technology Stack
 
 ### 后端技术栈 | Back-end Technology Stack
+#### 编程语言 | Programming language
 * ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0.svg) ![Java](https://img.shields.io/badge/-Java-2030A0.svg) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035.svg) ![Scala](https://img.shields.io/badge/-Scala-E93035.svg) ![Rust](https://img.shields.io/badge/-Rust-E93035.svg) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
 
+#### 技术栈 | Technology Stack
+* ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-2030A0.svg)
+* ![Gin](https://img.shields.io/badge/-Gin-2030A0.svg)
+
 ### 前端技术栈 | Front-end technology stack
-* ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg)  ![Vue.js](https://img.shields.io/badge/-Vue.js-2030A0.svg)
+#### 编程语言 | Programming language
+* ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) 
+
+#### 技术栈 | Technology Stack
+* ![Vue.js](https://img.shields.io/badge/-Vue.js-2030A0.svg)
 
 ### 游戏开发技术栈 | Game Development Technology Stack
-* ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine-2030A0.svg) ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) 
+#### 编程语言 | Programming language
+* ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg)
+  
+#### 技术栈 | Technology Stack
+* ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine-2030A0.svg) 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 
