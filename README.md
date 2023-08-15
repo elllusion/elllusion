@@ -8,10 +8,10 @@
 ### ⚡ 我的技术栈 | My Tech Stack 
 
 ## 芯片开发技术栈 | Chip development technology stack
-* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg)
+* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![RISC-V](https://img.shields.io/badge/-RISC-V-2030A0.svg)
 
 ## 软件开发技术栈 | Software Development Technology Stack
-* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0.svg) ![Java](https://img.shields.io/badge/-Java-2030A0.svg) ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) ![Scala](https://img.shields.io/badge/-Scala-E93035.svg) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035.svg) ![Rust](https://img.shields.io/badge/-Rust-E93035.svg)
+* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0.svg) ![Java](https://img.shields.io/badge/-Java-2030A0.svg) ![Lua](https://img.shields.io/badge/-Lua-2030A0.svg) ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) ![Scala](https://img.shields.io/badge/-Scala-E93035.svg) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035.svg) ![Rust](https://img.shields.io/badge/-Rust-E93035.svg) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
 
 ## 芯片开发工具栈 | Chip development Tools stack
 
@@ -20,6 +20,8 @@
 * ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
 
 *  ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg) ![Cadence Innovus](https://img.shields.io/badge/-Cadence%20Innovus-EE0040.svg) ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-EE0040.svg)
+
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poorjobless&theme=dracula)
 
