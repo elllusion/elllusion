@@ -21,16 +21,21 @@
 ### 芯片开发工具栈 | Chip development Tool Stack
 
 #### 芯片开发前端工具栈 | Front-end Tool Stack
+
 * ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
-  
+
 * ![Iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![Verilator](https://img.shields.io/badge/-Verilator-0184C1.svg)
 
 * ![Cadence Genus](https://img.shields.io/badge/-Cadence%20Genus-EE0040.svg)
 
 * ![Synopsys Design Compiler](https://img.shields.io/badge/-Synopsys%20Design%20Compiler-C637FA.svg) ![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-C637FA.svg) ![Synopsys Verdi](https://img.shields.io/badge/-Synopsys%20Verdi-C637FA.svg)
+  
+##### FPGA开发工具栈 | FPGA Development Tool Stack
+* ![Quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff)
+* ![Vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff)
 
 #### 芯片开发后端工具栈 | Back-end Tool Stack
-* ![Yosys](https://img.shields.io/badge/-Yosys-blue.svg?logo=intel&logoColor=ffffff) ![Quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![Vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff)
+* ![Yosys](https://img.shields.io/badge/-Yosys-blue.svg?logo=intel&logoColor=ffffff) 
 
 * ![Synopsys IC Compiler II](https://img.shields.io/badge/-Synopsys%20IC%20Compiler%20II-C637FA.svg) ![Synopsys Fusion Compiler](https://img.shields.io/badge/-Synopsys%20Fusion%20Compiler-C637FA.svg) ![Synopsys Custom Compiler](https://img.shields.io/badge/-Synopsys%20Custom%20Compiler-C637FA.svg) 
 
