@@ -9,7 +9,10 @@
 
 ## 硬件开发技术栈 | Chip Development Technology Stack
 ### 芯片开发技术栈 | Chip Development Technology Stack
-* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
+#### 硬件描述语言 | Hardware Description Language
+* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg)
+#### 编程语言 | Programming Language （主要用于系统建模 | Mainly Used For System Modeling）
+* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
 
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg)
@@ -18,11 +21,11 @@
   ##### 低功耗计算 | Low Power Computing
   * ![SweRV](https://img.shields.io/badge/-SweRV-2030A0.svg)
 
-### 芯片开发工具栈 | Chip development Tool Stack
+### 芯片开发工具栈 | Chip Development Tool Stack
 
 #### 芯片开发前端工具栈 | Front-end Tool Stack
 
-* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
+* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)（主要用于系统建模 | Mainly Used For System Modeling）
 
 * ![Iverilog](https://img.shields.io/badge/-iverilog-F73345.svg) ![Verilator](https://img.shields.io/badge/-Verilator-0184C1.svg)
 
@@ -48,7 +51,7 @@
 ## 软件开发技术栈 | Software Development Technology Stack
 
 ### 后端技术栈 | Back-end Technology Stack （包含游戏服务器开发 | Includes Game Server Development）
-#### 编程语言 | Programming language
+#### 编程语言 | Programming Language
 * ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0.svg) ![Java](https://img.shields.io/badge/-Java-2030A0.svg) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035.svg) ![Scala](https://img.shields.io/badge/-Scala-E93035.svg) ![Rust](https://img.shields.io/badge/-Rust-E93035.svg) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
 
 #### 技术栈 | Technology Stack
