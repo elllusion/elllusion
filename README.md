@@ -10,9 +10,9 @@
 ## 硬件开发技术栈 | Chip Development Technology Stack
 ### 芯片开发技术栈 | Chip Development Technology Stack
 #### 硬件描述语言 | Hardware Description Language
-* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77.svg) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg)
+* ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-CAD09D?logo=systemverilog&logoColor=ffffff) ![Verilog](https://img.shields.io/badge/-Verilog-8985F0?logo=verilog&logoColor=ffffff) ![Chisel](https://img.shields.io/badge/-Chisel-2D3E77?logo=chisel&logoColor=ffffff) ![Bluespec](https://img.shields.io/badge/-Bluespec-2030A0?logo=bluespec&logoColor=ffffff)
 #### 编程语言 | Programming Language （主要用于系统建模 | Mainly Used For System Modeling）
-* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0.svg)
+* ![Matlab](https://img.shields.io/badge/-Matlab-8985F0?logo=matlab&logoColor=ffffff)
 
 ### 芯片架构在研发方向 | Chip Architecture R&D Direction
 * ![RISC-V](https://img.shields.io/badge/-RISC--V-2030A0.svg)
@@ -52,7 +52,7 @@
 
 ### 后端技术栈 | Back-end Technology Stack （包含游戏服务器开发 | Includes Game Server Development）
 #### 编程语言 | Programming Language
-* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0?logo=golang&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-2030A0?logo=java&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035?logo=kotlin&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-E93035?logo=scala&logoColor=ffffff) ![Rust](https://img.shields.io/badge/-Rust-E93035?logo=rust&logoColor=ffffff) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
+* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0?logo=golang&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-2030A0?logo=java&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035?logo=kotlin&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-E93035?logo=scala&logoColor=ffffff) ![Rust](https://img.shields.io/badge/-Rust-E93035?logo=rust&logoColor=ffffff) ![Zig](https://img.shields.io/badge/-Zig-E93035?logo=zig&logoColor=ffffffg) ![V](https://img.shields.io/badge/-V-E93035?logo=v&logoColor=ffffff)
 
 #### 技术栈 | Technology Stack
 * ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-2030A0.svg)
@@ -60,7 +60,7 @@
 
 ### 前端技术栈 | Front-end Technology Stack
 #### 编程语言 | Programming Language
-* ![Html5](https://img.shields.io/badge/-Html5-2030A0.svg) ![CSS](https://img.shields.io/badge/-CSS-2030A0.svg) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0.svg) ![TypeScript](https://img.shields.io/badge/-TypeScript-2030A0.svg) ![Dart](https://img.shields.io/badge/-Dart-2030A0.svg)
+* ![Html5](https://img.shields.io/badge/-Html5-2030A0?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-2030A0?logo=css&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0?logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-2030A0?logo=typescript&logoColor=ffffff) ![Dart](https://img.shields.io/badge/-Dart-2030A0?logo=dart&logoColor=ffffff)
 
 #### 技术栈 | Technology Stack
 * [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/poorjobless)](https://github.com/poorjobless)
