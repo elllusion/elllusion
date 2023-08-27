@@ -52,7 +52,7 @@
 
 ### 后端技术栈 | Back-end Technology Stack （包含游戏服务器开发 | Includes Game Server Development）
 #### 编程语言 | Programming Language
-* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0?logo=golang&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-2030A0.svg) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035.svg) ![Scala](https://img.shields.io/badge/-Scala-E93035.svg) ![Rust](https://img.shields.io/badge/-Rust-E93035.svg) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
+* ![C](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![CSharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff) ![Golang](https://img.shields.io/badge/-Go-2030A0?logo=golang&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-2030A0?logo=java&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-E93035?logo=kotlin&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-E93035?logo=scala&logoColor=ffffff) ![Rust](https://img.shields.io/badge/-Rust-E93035?logo=rust&logoColor=ffffff) ![Zig](https://img.shields.io/badge/-Zig-E93035.svg) ![V](https://img.shields.io/badge/-V-E93035.svg)
 
 #### 技术栈 | Technology Stack
 * ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-2030A0.svg)
