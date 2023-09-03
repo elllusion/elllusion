@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。;凡我不能创造的，我就不能理解。;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。——摩尔根（1933年诺贝尔生理学或医学奖得主）;凡我不能创造的，我就不能理解。——理查德·费曼;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。——玛格丽特·希尔达·撒切尔（英国第49任首相）)
 
 |[![info](https://github-readme-stats.vercel.app/api?username=elllusion&show_icons=true&theme=radical)]()|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elllusion&layout=compact&theme=radical&langs_count=8)]()|
 |  ----  | ----  |
@@ -63,7 +63,7 @@
 * ![Html5](https://img.shields.io/badge/-Html5-2030A0?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-2030A0?logo=css&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-2030A0?logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-2030A0?logo=typescript&logoColor=ffffff) ![Dart](https://img.shields.io/badge/-Dart-2030A0?logo=dart&logoColor=ffffff)
 
 #### 技术栈 | Technology Stack
-* [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/poorjobless)](https://github.com/poorjobless)
+* [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/elllusion)](https://github.com/elllusion)
 * ![Vue.js](https://img.shields.io/badge/-Vue.js-2030A0.svg)
 * ![Flutter](https://img.shields.io/badge/-Flutter-2030A0.svg) ![FlutterBoost](https://img.shields.io/badge/-FlutterBoost-2030A0.svg)
 * ![ReactNative](https://img.shields.io/badge/-ReactNative-2030A0.svg) ![React.js](https://img.shields.io/badge/-React.js-2030A0.svg)
@@ -80,7 +80,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=elllusion&color=green">
 <!--
-**poorjobless/poorjobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elllusion/elllusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
