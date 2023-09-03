@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。;不要把目标定得太高，太高近乎妄想。——摩尔根（1933年诺贝尔生理学或医学奖得主）;凡我不能创造的，我就不能理解。——理查德·费曼;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。——玛格丽特·希尔达·撒切尔（英国第49任首相）)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=没有人耻笑你，而是你自己磨灭目标。不要把目标定得太高，太高近乎妄想。——摩尔根（1933年诺贝尔生理学或医学奖得主）;凡我不能创造的，我就不能理解。——理查德·费曼;注意你的思想，因为它将变成你的言辞。;注意你的言辞，因为它将变成你的行动。;注意你的行动，因为它将变成你的习惯。;注意你的习惯，因为它将变成你的性格。;注意你的性格，因为它们将决定你的命运。;我们想的是什么，就会成为什么样的人。——玛格丽特·希尔达·撒切尔（英国第49任首相）)
 
 |[![info](https://github-readme-stats.vercel.app/api?username=elllusion&show_icons=true&theme=radical)]()|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elllusion&layout=compact&theme=radical&langs_count=8)]()|
 |  ----  | ----  |
